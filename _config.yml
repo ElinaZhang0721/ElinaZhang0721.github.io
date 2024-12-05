@@ -22,13 +22,13 @@ repository               : "elinazhang0721/elinazhang0721.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yufei Zhang"
+  name             : "Yufei Zhang 张雨飞"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "a master student majoring Management Information Systems"
   location         : "Tucson, AZ"
   school           : "University of Arizona"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yufeiz@arizona.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
