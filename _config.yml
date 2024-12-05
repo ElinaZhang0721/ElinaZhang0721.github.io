@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Yufei Zhang  **张雨飞**"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://yufeizhang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Yufei Zhang"
+description              : &description "a master student majoring Management Information Systems"
+url                      : https://yufeizhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ElinaZhang0721/ElinaZhang0721.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yufei Zhang"
+  name             : "Yufei Zhang 张雨飞"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "a master student majoring Management Information Systems"
   location         : "Tucson, AZ"
   school           : "University of Arizona"
   uri              : # URL
